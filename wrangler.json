@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "orders",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f9e3d5b8-4803-41f2-bbc0-150dd4bf918a",
+      "database_name": "admin-orders"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
